@@ -968,6 +968,8 @@
       { "name": "SD", "url": "go:max3SD" },
       { "name": "LOW", "url": "go:max1LOW" },
       { "name": "LOW", "url": "go:max3LOW" }
+      ]
+  },
   {
     "league": "مباراة ودية x",
     "title": "عمان × موزامبيق",
@@ -982,8 +984,8 @@
     },
     "extra": false,
     "channels": []
+  ]
   },
-
   {
     "league": "تصفيات آسيا المؤهلة لكأس العالم 2026 x",
     "title": "الامارات × العراق",
@@ -1025,8 +1027,8 @@
     },
     "extra": false,
     "channels": []
+  ]
   },
-
   {
     "league": "مباراة ودية x",
     "title": "روسيا البيضاء × سوريا",
@@ -1041,8 +1043,8 @@
     },
     "extra": false,
     "channels": []
+  ]
   },
-
   {
     "league": "مباراة ودية x",
     "title": "تايلاند × الكويت",
