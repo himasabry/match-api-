@@ -70,7 +70,7 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": " × أوروغواي",
     "time": "2026-06-22T01:00:00",
     "team2": {
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": "الأرجنتين × ايسلندا",
     "time": "2026-06-22T20:00:00",
     "team1": {
@@ -162,7 +162,7 @@
   ]
   },
   {
-    "league": "كأس العالم ",
+    "league": "كأس العالم x",
     "title": " × تونس",
     "time": "2026-06-21T07:00:00",
     "team2": {
@@ -341,7 +341,7 @@
   ]
 },
 {
-  "league": "كأس العالم x",
+  "league": "كأس العالم ",
   "title": "مصر × ",
   "time": "2026-06-22T04:00:00",
   "team1": {
@@ -581,7 +581,7 @@
   ]
 },
   {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": " × ",
   "time": "2026-06-21T03:00:00",
   "team1": {
@@ -662,7 +662,7 @@
   ]
 },
   {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": "اسبانيا × ",
   "time": "2026-06-21T19:00:00",
   "team1": {
@@ -901,8 +901,8 @@
     ]
   },
   {
-    "league": "كأس العالم ",
-    "title": "ايران × نيوزيلاندا",
+    "league": "كأس العالم x",
+    "title": "ايران × ",
     "time": "2026-06-21T22:00:00",
     "team2": {
       "name": "ايران",
@@ -992,21 +992,20 @@
     ]
   },
   {
-    "league": "كأس العالم x",
-    "title": "العراق × النرويج",
-    "time": "2026-06-17T01:00:00",
-    "team1": {
+    "league": "كأس العالم ",
+    "title": "العراق × ",
+    "time": "2026-06-23T00:00:00",
+    "team2": {
       "name": "العراق",
       "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
     },
-    "team2": {
-      "name": "النرويج",
-      "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
+    "team1": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
     },
     "extra": false,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv2" },
-      { "name": "SUPER TV 2", "url": "go:supertv4" },
       { "name": "POST 2", "url": "go:POST2" },
       { "name": "الفجر", "url": "go:Alfajr1" },
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
