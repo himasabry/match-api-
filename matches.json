@@ -882,7 +882,7 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": "انجلترا × ",
     "time": "2026-06-23T23:00:00",
     "team1": {
@@ -947,11 +947,11 @@
     "league": "كأس العالم ",
     "title": "الأردن × ",
     "time": "2026-06-23T06:00:00",
-    "team1": {
+    "team2": {
     "name": "الجزائر",
     "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
     },
-    "team2": {
+    "team1": {
       "name": "الأردن",
       "flag": "https://imgs.ysscores.com/teams/128/9261693822771.png"
     },
