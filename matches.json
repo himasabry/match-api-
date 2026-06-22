@@ -1017,7 +1017,7 @@
   },
   "status": "stopped",
   "stoppedAt": "2026-06-23T01:00:00",
-  "resumeAt": "2026-06-23T02:50:00",
+  "resumeAt": "2026-06-23T03:00:00",
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv2" },
