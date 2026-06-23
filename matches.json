@@ -888,6 +888,7 @@
     },
     "extra": false,
     "channels": [
+      { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "MULTI", "url": "go:max24K" },
       { "name": "MULTI", "url": "go:max44K" },
       { "name": "FHD", "url": "go:max2FHD" },
