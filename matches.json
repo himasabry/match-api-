@@ -426,13 +426,13 @@
   "league": "كأس العالم ",
   "title": "كندا × ",
   "time": "2026-06-24T22:00:00",
-  "team1": {
+  "team2": {
     "name": "كندا",
     "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
   },
-  "team2": {
+  "team1": {
     "name": "سويسرا",
-    "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
+    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
   },
   "extra": false,
   "channels": [
