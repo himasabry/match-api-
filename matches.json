@@ -272,7 +272,7 @@
     "name": "جنوب افريقيا",
     "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
   },
-  "extra": false,
+  "extra": true,
   "channels": [
     { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
