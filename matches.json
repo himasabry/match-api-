@@ -131,6 +131,7 @@
     },
     "extra": false,
     "channels": [
+    { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
@@ -568,6 +569,7 @@
   },
   "extra": false,
   "channels": [
+    { "name": "SUPER TV 2", "url": "go:supertv2" },
     { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
