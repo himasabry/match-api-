@@ -567,7 +567,7 @@
     "name": "باراغواي",
     "flag": "https://imgs.ysscores.com/teams/128/3591763085227.png"
   },
-  "extra": false,
+  "extra": true,
   "channels": [
     { "name": "SUPER TV 2", "url": "go:supertv2" },
     { "name": "POST 2", "url": "go:POST2" },
