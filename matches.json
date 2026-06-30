@@ -207,7 +207,7 @@
       "name": "المغرب",
       "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
     },
-    "extra": false,
+    "extra": true,
     "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
