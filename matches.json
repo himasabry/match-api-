@@ -105,7 +105,7 @@
       "name": "الرأس الأخضر",
       "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
     },
-    "extra": false,
+    "extra": true,
     "channels": [
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
