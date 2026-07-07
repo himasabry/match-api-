@@ -318,7 +318,7 @@
     "name": "الجزائر",
     "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
   },
-  "extra": false,
+  "extra": true,
   "channels": [
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
