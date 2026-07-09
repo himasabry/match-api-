@@ -668,16 +668,16 @@
   ]
 },
   {
-  "league": "كأس العالم x",
+  "league": "كأس العالم ",
   "title": "اسبانيا × ",
-  "time": "2026-07-06T22:00:00",
+  "time": "2026-07-10T22:00:00",
   "team2": {
     "name": "اسبانيا",
     "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
   },
   "team1": {
-    "name": "البرتغال",
-      "flag": "https://imgs.ysscores.com/teams/128/3431763085446.png"
+    "name": "بلجيكا",
+    "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
   },
   "extra": false,
   "channels": [
@@ -755,7 +755,7 @@
   ]
 },
   {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": "فرنسا × ",
   "time": "2026-07-09T23:00:00",
   "team1": {
