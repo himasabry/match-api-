@@ -688,15 +688,15 @@
       { "name": "ALWAN 1", "url": "go:gogo1" },
       { "name": "ALWAN 2", "url": "go:gogo2" },
       { "name": "MULTI", "url": "go:max14K" },
-      { "name": "MULTI", "url": "go:max34K" },
+      { "name": "MULTI", "url": "go:max24K" },
       { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "FHD", "url": "go:max3FHD" },
+      { "name": "FHD", "url": "go:max2FHD" },
       { "name": "HD", "url": "go:max1HD" },
-      { "name": "HD", "url": "go:max3HD" },
+      { "name": "HD", "url": "go:max2HD" },
       { "name": "SD", "url": "go:max1SD" },
-      { "name": "SD", "url": "go:max3SD" },
+      { "name": "SD", "url": "go:max2SD" },
       { "name": "LOW", "url": "go:max1LOW" },
-      { "name": "LOW", "url": "go:max3LOW" }
+      { "name": "LOW", "url": "go:max2LOW" }
   ]
 },
   {
