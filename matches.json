@@ -899,7 +899,7 @@
       "name": "النرويج",
     "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
     },
-    "extra": false,
+    "extra": true,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "TOD", "url": "go:TOD11" },
