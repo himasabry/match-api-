@@ -94,21 +94,25 @@
     ]
   },
   {
-    "league": "كأس العالم x",
-    "title": "لأرجنتين × ايسلندا",
-    "time": "2026-07-04T01:00:00",
+    "league": "كأس العالم ",
+    "title": "لأرجنتين × ",
+    "time": "2026-07-12T04:00:00",
     "team1": {
       "name": "الأرجنتين",
       "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
     },
     "team2": {
-      "name": "الرأس الأخضر",
-      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
+      "name": "سويسرا",
+    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
     },
     "extra": true,
     "channels": [
+      
+    { "name": "TOD", "url": "go:TOD11" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
+      { "name": "ALWAN 1", "url": "go:gogo1" },
+      { "name": "ALWAN 2", "url": "go:gogo2" },
     { "name": "MULTI", "url": "go:max24K" },
     { "name": "MULTI", "url": "go:max44K" },
     { "name": "FHD", "url": "go:max2FHD" },
@@ -668,7 +672,7 @@
   ]
 },
   {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": "اسبانيا × ",
   "time": "2026-07-10T22:00:00",
   "team2": {
@@ -884,21 +888,25 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": "انجلترا × ",
-    "time": "2026-07-01T19:00:00",
-    "team1": {
+    "time": "2026-07-12T00:00:00",
+    "team2": {
       "name": "انجلترا",
       "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
     },
-    "team2": {
-      "name": "جمهورية الكونغو",
-      "flag": "https://imgs.ysscores.com/teams/128/7171693917788.png"
+    "team1": {
+      "name": "النرويج",
+    "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
     },
     "extra": false,
     "channels": [
-      { "name": "الفجر", "url": "go:Alfajr1" },
+      { "name": "SUPER TV 1", "url": "go:supertv1" },
+      { "name": "TOD", "url": "go:TOD11" },
+    { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
+      { "name": "ALWAN 1", "url": "go:gogo1" },
+      { "name": "ALWAN 2", "url": "go:gogo2" },
       { "name": "MULTI", "url": "go:max14K" },
       { "name": "MULTI", "url": "go:max34K" },
       { "name": "FHD", "url": "go:max1FHD" },
