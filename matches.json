@@ -685,11 +685,8 @@
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "TOD", "url": "go:TOD11" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "ALWAN 2", "url": "go:gogo2" },
       { "name": "MULTI", "url": "go:max14K" },
       { "name": "MULTI", "url": "go:max24K" },
       { "name": "FHD", "url": "go:max1FHD" },
@@ -702,8 +699,6 @@
       { "name": "HD", "url": "go:max4HD" },
       { "name": "SD", "url": "go:max1SD" },
       { "name": "SD", "url": "go:max2SD" },
-      { "name": "SD", "url": "go:max3SD" },
-      { "name": "SD", "url": "go:max4SD" },
       { "name": "LOW", "url": "go:max1LOW" },
       { "name": "LOW", "url": "go:max2LOW" }
   ]
